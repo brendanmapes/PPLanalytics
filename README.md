@@ -1,4 +1,4 @@
-### This is a copy of the repo originally created within the Public Policy Lab organization by Aman Choudhri, created for continued exploration and development by Cornell Tech graduate students currently working with PPL.
+### This is a copy of the repo originally created within the Public Policy Lab organization by Aman Choudhri. It's been created for sharing access to that repo with Cornell Tech graduate students working with PPL in early 2025. 
 
 
 # ppl-tools

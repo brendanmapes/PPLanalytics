@@ -1,3 +1,6 @@
+#This is a clone of the repo originally created within the Public Policy Lab organization by Aman Choudhri. 
+
+
 # ppl-tools
 
 PPL Tools is a desktop application that provides utilities for processing and analyzing interview transcripts and research findings. It currently includes two main features:

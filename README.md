@@ -1,4 +1,4 @@
-### This is a copy of the repo originally created within the Public Policy Lab organization by Aman Choudhri. View the original here: https://github.com/Public-Policy-Lab/PPLanalytics. This copy will allow for continued exploration and development of these tools by Cornell Tech graduate students,who are working with PPL in early 2025. 
+### This is a copy of the repo originally created within the Public Policy Lab organization by Aman Choudhri. View the original here: https://github.com/Public-Policy-Lab/PPLanalytics. This copy will allow for continued exploration and development of these tools by Cornell Tech graduate students, who are working with PPL in early 2025. 
 
 
 
